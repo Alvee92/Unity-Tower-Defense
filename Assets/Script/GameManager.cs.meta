@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8c92e7377bee94c49826d914f7b8ccc1
+timeCreated: 1434388134
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - textevie: {instanceID: 0}
+  - texteargent: {instanceID: 0}
+  - particules: {fileID: 100010, guid: 031d08f52af1daa4f929b85221519426, type: 2}
+  - son: {fileID: 8300000, guid: ca2dcb8aebdfc2749b319fbfcb45373e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

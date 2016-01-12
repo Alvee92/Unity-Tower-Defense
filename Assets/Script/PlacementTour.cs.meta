@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a69dc306884ecc943967d00468bc05c8
+timeCreated: 1434388359
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - textureBase: {fileID: 2800000, guid: a1227f39ee1068f4b8e3088803bd2014, type: 3}
+  - textureOn: {fileID: 2800000, guid: 590546bcbd472d94e874f6e0c76cc266, type: 3}
+  - textureError: {fileID: 2800000, guid: 580615edf5e29d245af58fc5fe2b06ac, type: 3}
+  - tower: {fileID: 11448114, guid: dee5bd867ac14bc46bc402d6cc8c3b8e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

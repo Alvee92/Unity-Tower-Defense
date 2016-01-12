@@ -1,0 +1,6 @@
+-Health bar, player and mob 
+-Upgrade tower,(if possible dowgrade)
+-Choose tower with GUI for example
+-Different towers (slow tower, continous tower)
+-Game level (pop more mob, with moer life, multiple path)
+-Implment Boss ?
